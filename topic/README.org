@@ -6,14 +6,22 @@ Topic:  Databases
  - name 2  Victoria Berkowitz
 
 * Describe your topic here
-I'd like all students to be able to write a join query and work through a meaningful real-life challenge.  (See homework.)  I also want them to be exposed to a few advanced concepts and have the option of going all in - or taking it easy.  (See async. assignment.)  I've also copied @Z so that he can have the chance to weigh in as desired.
+I'd like all students to be able to write a join query and work through a meaningful real-life challenge.  (See homework.)  I also want them to be exposed to a few advanced concepts and have the option of going all in - or taking it easy.  
+
 SQL - Structured Query Language Lesson:  Alex and Victoria
+
 Proposed topics to be covered during synchronous lesson follow.  All classwork, homework, and async work use the tables periodAbsences, scanTimes, and biographicalInfo, to which all students would have access:
+
 INTRODUCTORY MODULE - 10 minute minilesson - Relational database and data normalization, SELECT query, fields, aliasing, WHERE clause
+
 ACTIVITY - 10 minutes
+
 INTERMEDIATE MODULE #1 - 10 minute minilesson - ORDER BY, GROUP BY, aggregate functions
+
 ACTIVITY - 10 minutes
+
 INTERMEDIATE MODULE #2 - 10 minute minilesson - LEFT JOIN, RIGHT JOIN, INNER JOIN, SELF JOIN, Calculated Fields
+
 ACTIVITY - 10 minutes
 
  
