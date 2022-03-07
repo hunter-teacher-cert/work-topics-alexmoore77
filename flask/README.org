@@ -1,3 +1,11 @@
-* Last Name:
-* First Name:
+* Last Name: Moore
+* First Name: Alexander
+* Github:  alexmoore77
+
+* Project:  Flask
+* URL: 
+https://FlaskDatabaseAttendance.alexmoore77.repl.co
+* Files:  https://flaskdatabaseattendance.alexmoore77.repl.co/
+
+Note:  This is the completed Flask project that meets all requirements.  As a bonus, it combines the learning from the first two units:  It runs the SQLite queries that are the solutions for the Homework and Async work.  I spent over 20 hours on this assignment.
 
