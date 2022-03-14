@@ -1,3 +1,11 @@
 * Last Name: Moore
 * First Name: Alexander
-
+Note:  Victoria Berkowitz and I were presenters for the Databases lesson.  
+Please find in this directory the following:  
+- Minilesson 1  
+- Minilesson 2  
+- Minilesson 3  
+- Homework  
+- Async Lesson  
+- Answers to Homework and Asynch Lesson
+- All four original CSV files that we created
